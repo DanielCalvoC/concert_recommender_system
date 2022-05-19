@@ -6,11 +6,15 @@ Usage
 
 Description
 --------
-Web scraping
+- Web scraping to get artist and timetable.
 
-Data cleaning
+- Data cleaning
 
-K-Means clustering
+- Getting genre and audio feature of each artist using Spotify API.
+
+- K-Means clustering
+
+- Recommendations 
 
 
 Used tech
