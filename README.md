@@ -4,7 +4,7 @@ Unsupervised machine learning project to design the ideal concert itinerary insi
 
 Description
 --------
-- Web scraping to get artist and timetable.
+- Web scraping to get artists and festival timetable.
 
 - Data cleaning
 
